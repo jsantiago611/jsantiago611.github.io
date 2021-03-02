@@ -21,7 +21,7 @@ module.exports = {
         14: '3.5rem',
       },
       fontFamily: {
-        sans: ['Inter'],
+        sans: ['Inter var'],
       },
       colors: {
         blue: colors.lightBlue,
