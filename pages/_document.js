@@ -26,18 +26,18 @@ class MyDocument extends Document {
           <link
             rel="preload"
             as="style"
-            href="https://rsms.me/inter/inter.css"
+            href="https://fonts.googleapis.com/css?family=Inter&display=swap"
           />
           <link
             rel="stylesheet"
-            href="https://rsms.me/inter/inter.css"
+            href="https://fonts.googleapis.com/css?family=Inter&display=swap"
             media="print"
             onLoad="this.media='all'"
           />
           <noscript>
             <link
               rel="stylesheet"
-              href="https://rsms.me/inter/inter.css"
+              href="https://fonts.googleapis.com/css?family=Inter&display=swap"
             />
           </noscript>
           <link
