@@ -46,6 +46,9 @@ module.exports = {
               code: { color: theme('colors.blue.400') },
             },
             h1: {
+               fontFamily: {
+        sans: ['Inter', ...defaultTheme.fontFamily.sans],
+      },
               fontWeight: '700',
               letterSpacing: theme('letterSpacing.tight'),
               color: theme('colors.gray.900'),
